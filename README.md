@@ -9,6 +9,8 @@ O podcast que traduz a tecnologia em bom português
   style="border-radius: 50%; object-fit: cover;"
 />
 
+
+
 ## 🚀 Sobre o projeto
 
 **TecnoFala** é um podcast criado para aproximar o público leigo do mundo da tecnologia, explicando temas complexos — como **inteligência artificial, inovação e o futuro digital** — de forma simples, divertida e acessível.
@@ -33,6 +35,11 @@ Cada episódio é curto, leve e direto ao ponto, trazendo **curiosidades, notíc
 - 🎨 **Capa e identidade visual:** Leonardo.Ai e ChatGPT  
 - 🔊 **Edição de áudio e narração:** ElevenLabs
 ---
+  [Baixe aqui o Episodio1](https://github.com/user-attachments/files/22918418/podcast_final_audio.MP3)
+
+---
+
+
 ## 🧑‍💻 Autor
 
 **Felipe P. Schmidt**  
