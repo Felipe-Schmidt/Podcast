@@ -1,1 +1,43 @@
+# 🎙️ TecnoFala — Prompts utilizados na criação do projeto
 
+## 🧩 1. Criação do nome e subtítulo
+Prompt:
+"Preciso criar um podcast com a ajuda da IA para entregar em um projeto de um curso.
+O Podcast será sobre tecnologia e inteligência artificial.
+Público-alvo: pessoas leigas sobre o tema, que querem entender como a tecnologia funciona no dia a dia.
+O nome deve ser enxuto e em português. Me traga 5 sugestões com subtítulo envolvente."
+
+Resposta escolhida:
+**TecnoFala — O podcast que traduz a tecnologia em bom português.**
+
+---
+
+## 🧠 2. Roteiro do episódio 1
+Prompt:
+"Vamos montar o primeiro roteiro.
+[Introdução]
+[Curiosidade 1]
+[Curiosidade 2]
+[Finalização]
+
+No bloco de [Introdução] deve conter uma saudação empolgante e motivadora.
+No bloco de [Curiosidade 1] deve ter uma explicação breve do que é inteligência artificial, de forma simples.
+No bloco de [Curiosidade 2] deve ter uma notícia de algo revolucionário em que a IA teve participação.
+No bloco de [Finalização] uma despedida descolada como: Eu sou o Felipe e esse foi o TecnoFala da semana.
+Tempo máximo: 9 minutos."
+
+---
+
+## 🎨 3. Geração da capa no Leonardo.Ai
+Prompt:
+"Podcast cover illustration for an episode titled 'Inteligência Artificial — O que é e como ela está mudando o mundo' 
+from the Brazilian show 'TecnoFala — O podcast que traduz a tecnologia em bom português'.  
+A friendly Brazilian man wearing casual clothes and headphones, speaking into a microphone in front of a laptop.  
+Behind him, abstract glowing elements representing artificial intelligence: neural networks, circuits, and digital light patterns 
+in shades of blue, green, and yellow (colors of Brazil).  
+The atmosphere should be modern, bright, and inviting, symbolizing innovation and curiosity.  
+Art style: clean digital illustration, semi-flat, colorful, professional.  
+1:1 aspect ratio.  
+Do not include any text or titles in the image."
+
+---
